@@ -1,4 +1,4 @@
-#Diwali_sales-Analysis
+# Diwali_sales-Analysis
 Conducted and exploratory data analysis.
 extracted data from csv file and analyzed Diwali sales.
 objective :
